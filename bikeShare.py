@@ -35,7 +35,7 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
-        month = input(str('\nInput a specific month from January to June or enter all.\n'))
+        month = input(str('\nInput a specific month from January to June or enter all. Type of the name of the month, i.e. January.\n'))
         month = month.lower()
         if month in month_of_year:
             break
