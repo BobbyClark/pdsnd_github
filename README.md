@@ -5,7 +5,7 @@
 Python Bike Share Program
 
 ### Description
-Describe what your project is about and what it does
+Interactive python program that takes user input to filter data results for bike sharing program for specified city.
 
 ### Files used
 Include the files used
